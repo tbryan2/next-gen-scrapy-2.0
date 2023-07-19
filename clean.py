@@ -15,7 +15,7 @@ Example:
 import cv2
 import os
 from undistort_field import *
-from pass_detection import *
+from archive2.pass_detection import *
 import json
 import scipy.misc
 
