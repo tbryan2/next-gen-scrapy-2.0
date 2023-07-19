@@ -1,0 +1,11 @@
+requests
+bs4
+lxml
+Pillow
+opencv-python
+scipy
+numpy
+pandas
+scikit-learn
+urllib
+nflgame-redux==2.0.1a1
